@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodePlay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="basics">Computer programming is the act of writing computer programs, which are a sequence of instructions written using a Computer Programming Language to perform a specified task by the computer. Computer Programming is fun and easy to learn provided you adopt a proper approach. This tutorial attempts to cover the basics of computer programming using a simple and practical approach for the benefit of novice learners.</string>
+    <string name="action_settings">Settings</string>
+    <string name="array">Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+        
+                        Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables. A specific element in an array is accessed by an index.</string>
+</resources>
